@@ -22,15 +22,15 @@ Here is what is actually happening:
 - The country name is then sent to our geocoding API as a forward geocoding request (placename to coordinates). We then return the coordinates of the center of the country. For example we turn India into 22.3511148, 78.6677428, roughly in the middle of Uttar Pradesh.
 - People get confused and angry as to why the coordinates are not actually where the phone is physically located.
 
-Unfortunately there is no such thing as magic, and neither we, nor anyone else, have the ability to derive a phone’s location from an input string like India or Spain.
+Unfortunately, there is no such thing as magic, and neither we, nor anyone else, have the ability to derive a phone’s location from an input string like India or Spain.
 
 Source: https://blog.opencagedata.com/post/we-can-not-convert-a-phone-number-into-a-location-sorry
 
 ## Properties Used
-
+## Links
 YouTube: https://youtu.be/Dz3rSZHnKkM
 
-Phonenumbers Python Library: https://pypi.org/project/phonenumbers/
+PhoneNumbers Python Library: https://pypi.org/project/phonenumbers/
 
 OpenCage Geocoding Module for Python: https://pypi.org/project/opencage/
 
