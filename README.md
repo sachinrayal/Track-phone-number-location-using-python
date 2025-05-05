@@ -27,7 +27,7 @@ Unfortunately, there is no such thing as magic, and neither we, nor anyone else,
 Source: https://blog.opencagedata.com/post/we-can-not-convert-a-phone-number-into-a-location-sorry
 
 ## Properties Used
-## Links
+
 YouTube: https://youtu.be/Dz3rSZHnKkM
 
 PhoneNumbers Python Library: https://pypi.org/project/phonenumbers/
