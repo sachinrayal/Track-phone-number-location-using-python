@@ -5,10 +5,10 @@
 
 **How To Track Phone Number Location With Python. track phone number location using python. Track phone number location using python github. how to track a phone number github. How to track location using python. python code for live location. Phone numbers Python.**
 
-**Phone numbers python documentation. python phone number validation. get current location google maps python. How do I create a location tracker in Python?. How do I get coordinates in Python?. How do I track my phone using python?.**
+**Phone numbers python documentation. Python phone number validation. Get the current location Google Maps Python. How do I create a location tracker in Python?. How do I get coordinates in Python?. How do I track my phone using Python?.**
 
-## ABout this project
-We have created this project just for fun. Tracking someones location is more that what you think. In this project we are just trying to determine the country name based on the coutry codes. Nothing else.
+## About this project
+We have created this project just for fun. Tracking someone's location is more than what you think. In this project, we are just trying to determine the country name based on the country codes. Nothing else.
 
 **Some words from OpenCage:**
 
