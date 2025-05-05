@@ -30,7 +30,7 @@ Source: https://blog.opencagedata.com/post/we-can-not-convert-a-phone-number-int
 
 YouTube: https://youtu.be/Dz3rSZHnKkM
 
-Phonenumbers Python Library: https://pypi.org/project/phonenumbers/
+PhoneNumbers Python Library: https://pypi.org/project/phonenumbers/
 
 OpenCage Geocoding Module for Python: https://pypi.org/project/opencage/
 
