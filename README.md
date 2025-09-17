@@ -3,7 +3,7 @@
 
 ## Your queries - 
 
-**How To Track Phone Number Location With Python. track phone number location using python. Track phone number location using python github. how to track a phone number github. How to track location using python. python code for live location. Phone numbers Python.**
+**What To Track Phone Number Location With Python. track phone number location using python. Track phone number location using python github. how to track a phone number github. How to track location using python. python code for live location. Phone numbers Python.**
 
 **Phone numbers python documentation. python phone number validation. get current location google maps python. How do I create a location tracker in Python?. How do I get coordinates in Python?. How do I track my phone using python?.**
 
