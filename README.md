@@ -8,7 +8,7 @@
 **Phone numbers python documentation. python phone number validation. get current location google maps python. How do I create a location tracker in Python?. How do I get coordinates in Python?. How do I track my phone using python?.**
 
 ## ABout this project
-We have created this project just for fun. Tracking someones location is more that what you think. In this project we are just trying to determine the country name based on the coutry codes. Nothing else.
+I have created this project just for fun. Tracking someones location is more that what you think. In this project we are just trying to determine the country name based on the coutry codes. Nothing else.
 
 **Some words from OpenCage:**
 
